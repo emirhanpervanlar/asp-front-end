@@ -11,7 +11,9 @@
     <link rel="stylesheet" href="inc/bootstrap/bootstrap.min.css">
     <script href="inc/bootstrap/bootstrap.js"></script>
     <script href="inc/jquery/jquery-3.2.1.min.js"></script>
+    <script src="inc/jquery/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
     <title>E-TİCARET</title>
+    <script type="text/javascript" src="js/basket.js"></script>
 </head>
 <body>
